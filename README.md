@@ -36,4 +36,18 @@ Files Included <br>
  kubectl scale deployment my-kube-app --replicas=2 <br>
  ---
  ## Screenshots
- 
+ ---
+ Pods
+![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/pods.png?raw=true)
+ ----
+ Deployment
+ ----
+![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/deployment.png?raw=true)
+-----
+ Pod logs
+----
+![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/pod-loges.png?raw=true)
+-----
+Replicas of pods
+-----
+![Branches](https://github.com/gawali-priyanka/kubernetes-deployment-task-/blob/main/screenshots/Replicas-pods.png?raw=true)
